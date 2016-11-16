@@ -1,15 +1,13 @@
 ---
 layout: page
-title: About
+title: Био
 permalink: /about/
 ---
 
-Some information about you!
+Немного обо мне:
 
-### More Information
+Немногословен. Ненавижу таких же тупых как я.
 
-A place to include any other types of information that you'd like to include about yourself.
+### Контакты
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[ВКашечка](https://vk.com/yastoyalov)
